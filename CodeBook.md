@@ -167,4 +167,6 @@ Column | Variable Name                     | Definition
 63	| fBodyBodyGyroMag-mean()            | Mean Gyroscope Mag (Fourier)
 64	| fBodyBodyGyroMag-std()             | Standard Deviation Gyroscope Mag (Fourier)
 65	| fBodyBodyGyroJerkMag-mean()        | Mean Gyroscope Jerk Mag (Fourier)
-66	| fBodyBodyGyroJerkMag-std()         | Standard Deviation Gyroscope Jerk Mag (Fourier)         
+66	| fBodyBodyGyroJerkMag-std()         | Standard Deviation Gyroscope Jerk Mag (Fourier)   
+67	| Activity       | Activity Performed
+68	| Subject        | Subject performing the activity 
