@@ -4,7 +4,7 @@
 
 This project contains:
 
-- run_analysis.R:  main project script.
+- run_analysis.R: Main project script.
 - CodeBook.md: Code book documenting the project
 - README.md: This file
 
