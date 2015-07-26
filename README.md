@@ -1,5 +1,7 @@
 # Getting and Cleaning Data Course Project Git Hub Repository
 
+## Laurent Nepveu
+
 This project contains:
 
 - run_analysis.R:  main project script.
